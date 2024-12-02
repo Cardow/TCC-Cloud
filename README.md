@@ -1,7 +1,6 @@
 # TCCloud - Ambiente em Nuvem com Azure
 
 https://cardow.github.io/TCCloud/
-(https://github.com/Cardow/TCCloud/blob/main/TTClound.drawio.png)
 
 Este projeto, desenvolvido como Trabalho de Conclusão do Bootcamp em parceria com a T-Systems e a ProWay, consistiu na criação de um ambiente em nuvem para deploy utilizando os principais serviços e boas práticas do Microsoft Azure.
 
@@ -28,3 +27,7 @@ Aprendizados e Resultados:
 Desenvolvimento de um ambiente em nuvem escalável, resiliente e seguro.
 Aplicação prática de conceitos de governança, redes e armazenamento no Azure.
 Experiência com estratégias de alta disponibilidade e recuperação de desastres.
+
+##Arquitetura
+
+![Arquitetura](https://github.com/Cardow/TCCloud/blob/main/TTClound.drawio.png)
