@@ -27,5 +27,5 @@ Aprendizados e Resultados:
 Desenvolvimento de um ambiente em nuvem escalável, resiliente e seguro.
 Aplicação prática de conceitos de governança, redes e armazenamento no Azure.
 Experiência com estratégias de alta disponibilidade e recuperação de desastres.
-
+ 
 ![](https://github.com/Cardow/TCCloud/blob/main/TTClound.drawio.png)
